@@ -21,21 +21,24 @@ Follow these steps to get started with these examples:
 
 ```bash
 git clone https://github.com/Ahmed-Elkassas/react-design-pattern.git
+```
 
 ### Navigate to the Repository
 
 ```bash
 cd react-design-pattern
+```
 
 ### Install Dependencies
 
 ```bash
 npm install
-
+```
 ###Run the Project
 
 ```bash
 npm start
+```
 
 ###Feedback and Contributions
 
