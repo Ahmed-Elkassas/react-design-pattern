@@ -20,4 +20,4 @@ Follow these steps to get started with these examples:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Ahmed-Elkassas/react-design-pattern.git
