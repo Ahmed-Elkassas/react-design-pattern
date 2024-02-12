@@ -40,6 +40,6 @@ npm install
 npm start
 ```
 
-### Feedback and Contributions
+## Feedback and Contributions
 
 Feel free to open an issue or submit a pull request if you have suggestions, questions, or improvements.
