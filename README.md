@@ -34,12 +34,12 @@ cd react-design-pattern
 ```bash
 npm install
 ```
-###Run the Project
+### Run the Project
 
 ```bash
 npm start
 ```
 
-###Feedback and Contributions
+### Feedback and Contributions
 
 Feel free to open an issue or submit a pull request if you have suggestions, questions, or improvements.
